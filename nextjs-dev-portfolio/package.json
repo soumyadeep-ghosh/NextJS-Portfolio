@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "framer-motion": "^4.1.17",
+    "magnet-mouse": "github:fluffy-factory/magnet-mouse",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scroll": "^1.8.4",
+    "react-slick": "^0.28.1",
+    "slick-carousel": "^1.8.1",
+    "typewriter-effect": "^2.18.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "babel-plugin-inline-react-svg": "^2.0.1",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  }
+}
