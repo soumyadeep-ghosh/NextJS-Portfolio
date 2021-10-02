@@ -25,7 +25,7 @@ const Header = () => {
       >
         <nav className="max-w-screen-xl px-6 sm:px-8 lg:px-16 mx-auto grid grid-flow-col py-3 sm:py-4">
           <div className="col-start-1 col-end-2 flex items-center">
-            <span style={{fontWeight:'Bold', fontSize: 20 + 'px'}}>Arpan://</span>
+            <span style={{fontWeight:'Bold', fontSize: 20 + 'px'}}>Web Dev://</span>
           </div>
           <ul className="hidden lg:flex col-start-2 col-end-8 text-black-500  items-center">
             <LinkScroll
@@ -132,7 +132,7 @@ const Header = () => {
                   : " border-transparent")
               }
             >
-             <Image src="https://img.icons8.com/ios-glyphs/30/000000/person-male.png" height="30" width="30" alt="Arpan Adhikari"/>
+             <Image src="https://img.icons8.com/ios-glyphs/30/000000/person-male.png" height="30" width="30" alt="Web Dev"/>
               Me
             </LinkScroll>
             <LinkScroll
@@ -151,7 +151,7 @@ const Header = () => {
                   : " border-transparent ")
               }
             >
-            <Image style={{height:30+'px'}} src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-skills-management-kiranshastry-solid-kiranshastry-6.png" height="30" width="30" alt="Arpan Adhikari Skills"/>
+            <Image style={{height:30+'px'}} src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-skills-management-kiranshastry-solid-kiranshastry-6.png" height="30" width="30" alt="Skills"/>
               My Skills
             </LinkScroll>
             <LinkScroll
@@ -185,7 +185,7 @@ const Header = () => {
                 />
               </svg> */}
 
-              <Image src="https://img.icons8.com/ios-glyphs/30/000000/view-quilt.png" height="30" width="30" alt="Arpan Adhikari Projects"/>
+              <Image src="https://img.icons8.com/ios-glyphs/30/000000/view-quilt.png" height="30" width="30" alt="Projects"/>
               Projects
             </LinkScroll>
             <LinkScroll
